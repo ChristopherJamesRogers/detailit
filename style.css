@@ -1,0 +1,63 @@
+.logo {
+   border-radius: 15px;
+}
+.nav-item {
+    font-size: 20px;
+    
+}
+
+.main {
+    background-image: url(./pictures/mainpic2.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height:100vh;
+    background-position: center;
+    
+    
+
+}
+
+.desc {
+    font-size: 25px; 
+    font-weight: 500;
+    position: relative;
+    top: 100px;
+    text-shadow: 3px 0 black;
+    
+   
+}
+.ser {
+
+   position: relative;
+   top: 50px;
+   right: 95px;
+    
+}
+.ser1 {
+
+    position: relative;
+    top: 50px;
+    right: 310px;
+     
+ }
+ .ser2 {
+
+    position: relative;
+    top: 30px;
+    right: 420px;
+     
+ }
+
+
+.title {
+    font-size: 4rem;
+    position: relative;
+    top: 100px;
+    text-shadow: 5px 0 black;
+    
+}
+
+.quote {
+    position: relative;
+    top: 100px;
+}
